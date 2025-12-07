@@ -5,6 +5,8 @@ description: "Each stitch reflects creativity and calm in the crafting process."
 image: "img/og-preview-image.png"
 ---
 
+[english-for-designers](../README.md)
+
 # Alt Text
 
 Some other text I wrote.
