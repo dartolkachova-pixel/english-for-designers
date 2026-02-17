@@ -10,4 +10,4 @@ I used to play bass guitar in a band, which is probably why rhythm and balance m
 
 I want to keep developing as a designer, exploring new tools and ideas, and constantly raising my own standards. Design is a field that never stands still, and I want to grow with it.
 
-![Me](img/me.jpg)
+![Dasha is sitting at a table outside](img/me.jpg)
