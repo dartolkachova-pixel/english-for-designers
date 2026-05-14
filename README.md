@@ -5,8 +5,15 @@ Hello, this is the main page for all completed assignments for the English for D
 My name is Daria Tolkachova. I am a graphic design student in my final year of my bachelor's degree. Here you can read a little bit [about me](about-me)
 
 # Homework
+***Winter semester***
 - [Bespoke character](bespoke-character)
 - [Alt Text](alt-text)
 - [Handshake](handshake)
 - [Business card](business-card)
 - [Self Presentation](self-presentation)
+
+
+***Summer semester***
+- [Today I learned](today-i-learned)
+- [Case study](case-study)
+- [Storytelling](storytelling)
